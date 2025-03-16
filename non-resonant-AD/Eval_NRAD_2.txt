@@ -1,0 +1,1112 @@
+Activate Environment
+Virtual environment 'mlenv' is activated. Continuing...
+Running 10 Seeds
+Run Program for all signal injections
+5
+Train CWoLa for SR
+cuda available: True
+Working on reweight_0_sr...
+      X train, y train, w train: (198827, 5) (198827, 1) (198827, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.5696496366003119
+Classifier run 2 of 20.
+   AUC: 0.5736978327253974
+Classifier run 3 of 20.
+   AUC: 0.6227708879480781
+Classifier run 4 of 20.
+   AUC: 0.5554496305666795
+Classifier run 5 of 20.
+   AUC: 0.6295011778418127
+Classifier run 6 of 20.
+   AUC: 0.6490221668916341
+Classifier run 7 of 20.
+   AUC: 0.5901564349442129
+Classifier run 8 of 20.
+   AUC: 0.574403677213622
+Classifier run 9 of 20.
+   AUC: 0.6496786080559234
+Classifier run 10 of 20.
+   AUC: 0.5826762336417022
+Classifier run 11 of 20.
+   AUC: 0.6121442484611437
+Classifier run 12 of 20.
+   AUC: 0.6672393761271734
+Classifier run 13 of 20.
+   AUC: 0.5890933420322545
+Classifier run 14 of 20.
+   AUC: 0.6217994097035638
+Classifier run 15 of 20.
+   AUC: 0.6178750484927862
+Classifier run 16 of 20.
+   AUC: 0.609103387932993
+Classifier run 17 of 20.
+   AUC: 0.6163816503056183
+Classifier run 18 of 20.
+   AUC: 0.5688358064467434
+Classifier run 19 of 20.
+   AUC: 0.649762575133115
+Classifier run 20 of 20.
+   AUC: 0.5618542641665558
+
+
+Working on generate_0_sr...
+      X train, y train, w train: (198827, 5) (198827, 1) (198827, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.6398535557596884
+Classifier run 2 of 20.
+   AUC: 0.5142045547679487
+Classifier run 3 of 20.
+   AUC: 0.5615619594392607
+Classifier run 4 of 20.
+   AUC: 0.6003828876791755
+Classifier run 5 of 20.
+   AUC: 0.6310013297184822
+Classifier run 6 of 20.
+   AUC: 0.6114961070050915
+Classifier run 7 of 20.
+   AUC: 0.5127283785231023
+Classifier run 8 of 20.
+   AUC: 0.5006195066307809
+Classifier run 9 of 20.
+   AUC: 0.5185217514709314
+Classifier run 10 of 20.
+   AUC: 0.5753450492081358
+Classifier run 11 of 20.
+   AUC: 0.5090932651854275
+Classifier run 12 of 20.
+   AUC: 0.5412581922069557
+Classifier run 13 of 20.
+   AUC: 0.5179701236129978
+Classifier run 14 of 20.
+   AUC: 0.6143050032203501
+Classifier run 15 of 20.
+   AUC: 0.5956696632150823
+Classifier run 16 of 20.
+   AUC: 0.5023997456365662
+Classifier run 17 of 20.
+   AUC: 0.5892419856584293
+Classifier run 18 of 20.
+   AUC: 0.5084813419149594
+Classifier run 19 of 20.
+   AUC: 0.5794098724326635
+Classifier run 20 of 20.
+   AUC: 0.6661121859630112
+
+
+Working on morph_0_sr...
+      X train, y train, w train: (198827, 5) (198827, 1) (198827, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.7463398714873405
+Classifier run 2 of 20.
+   AUC: 0.7370901868983455
+Classifier run 3 of 20.
+   AUC: 0.7505108361188209
+Classifier run 4 of 20.
+   AUC: 0.7111570753922586
+Classifier run 5 of 20.
+   AUC: 0.6842085501811095
+Classifier run 6 of 20.
+   AUC: 0.7274996190196363
+Classifier run 7 of 20.
+   AUC: 0.7450681411855609
+Classifier run 8 of 20.
+   AUC: 0.7346831295491087
+Classifier run 9 of 20.
+   AUC: 0.7257308358531297
+Classifier run 10 of 20.
+   AUC: 0.7414794872314083
+Classifier run 11 of 20.
+   AUC: 0.7518280408086806
+Classifier run 12 of 20.
+   AUC: 0.719668293365843
+Classifier run 13 of 20.
+   AUC: 0.7337047053343819
+Classifier run 14 of 20.
+   AUC: 0.7237778425837412
+Classifier run 15 of 20.
+   AUC: 0.7405038844974647
+Classifier run 16 of 20.
+   AUC: 0.7165916795350464
+Classifier run 17 of 20.
+   AUC: 0.706152386099379
+Classifier run 18 of 20.
+   AUC: 0.7177443666669243
+Classifier run 19 of 20.
+   AUC: 0.7178654155564665
+Classifier run 20 of 20.
+   AUC: 0.6947998685197047
+
+
+All done!
+Train CWoLa for SR
+cuda available: True
+Working on reweight_0.004_sr...
+      X train, y train, w train: (199060, 5) (199060, 1) (199060, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.7184263664378523
+Classifier run 2 of 20.
+   AUC: 0.7618779711235872
+Classifier run 3 of 20.
+   AUC: 0.6740315937739438
+Classifier run 4 of 20.
+   AUC: 0.7349195400466046
+Classifier run 5 of 20.
+   AUC: 0.8019900427894893
+Classifier run 6 of 20.
+   AUC: 0.7509576517613529
+Classifier run 7 of 20.
+   AUC: 0.7546963079889999
+Classifier run 8 of 20.
+   AUC: 0.7593149738452359
+Classifier run 9 of 20.
+   AUC: 0.8117040274742374
+Classifier run 10 of 20.
+   AUC: 0.7283921744873058
+Classifier run 11 of 20.
+   AUC: 0.7569529820489228
+Classifier run 12 of 20.
+   AUC: 0.7660975200449969
+Classifier run 13 of 20.
+   AUC: 0.7811799310339439
+Classifier run 14 of 20.
+   AUC: 0.742584622252576
+Classifier run 15 of 20.
+   AUC: 0.7504583613491783
+Classifier run 16 of 20.
+   AUC: 0.7735047182255353
+Classifier run 17 of 20.
+   AUC: 0.7431737400761702
+Classifier run 18 of 20.
+   AUC: 0.7477431669334753
+Classifier run 19 of 20.
+   AUC: 0.7685603341637799
+Classifier run 20 of 20.
+   AUC: 0.7400376480940443
+
+
+Working on generate_0.004_sr...
+      X train, y train, w train: (199060, 5) (199060, 1) (199060, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.5348615615757234
+Classifier run 2 of 20.
+   AUC: 0.6439914672006304
+Classifier run 3 of 20.
+   AUC: 0.6037336899850868
+Classifier run 4 of 20.
+   AUC: 0.6145402829436241
+Classifier run 5 of 20.
+   AUC: 0.5944471569116105
+Classifier run 6 of 20.
+   AUC: 0.5264157437266193
+Classifier run 7 of 20.
+   AUC: 0.5577411449367955
+Classifier run 8 of 20.
+   AUC: 0.5508231956151461
+Classifier run 9 of 20.
+   AUC: 0.5037116688798695
+Classifier run 10 of 20.
+   AUC: 0.5294677913101614
+Classifier run 11 of 20.
+   AUC: 0.6217635902618082
+Classifier run 12 of 20.
+   AUC: 0.5807948702554512
+Classifier run 13 of 20.
+   AUC: 0.5296513296578796
+Classifier run 14 of 20.
+   AUC: 0.5789892338315381
+Classifier run 15 of 20.
+   AUC: 0.5173965848907878
+Classifier run 16 of 20.
+   AUC: 0.5532847266352009
+Classifier run 17 of 20.
+   AUC: 0.622640711315919
+Classifier run 18 of 20.
+   AUC: 0.5023971172547095
+Classifier run 19 of 20.
+   AUC: 0.5498058357838269
+Classifier run 20 of 20.
+   AUC: 0.5340852378885006
+
+
+Working on morph_0.004_sr...
+      X train, y train, w train: (199060, 5) (199060, 1) (199060, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.5854653584906062
+Classifier run 2 of 20.
+   AUC: 0.5759883603272705
+Classifier run 3 of 20.
+   AUC: 0.6485789239883497
+Classifier run 4 of 20.
+   AUC: 0.6213966913919369
+Classifier run 5 of 20.
+   AUC: 0.6246743989357078
+Classifier run 6 of 20.
+   AUC: 0.6834743629706508
+Classifier run 7 of 20.
+   AUC: 0.5903906486686816
+Classifier run 8 of 20.
+   AUC: 0.5439083807418199
+Classifier run 9 of 20.
+   AUC: 0.5564354394516513
+Classifier run 10 of 20.
+   AUC: 0.6968514709742198
+Classifier run 11 of 20.
+   AUC: 0.5787870970298006
+Classifier run 12 of 20.
+   AUC: 0.5744133400693657
+Classifier run 13 of 20.
+   AUC: 0.5149464888455091
+Classifier run 14 of 20.
+   AUC: 0.5411523204021059
+Classifier run 15 of 20.
+   AUC: 0.6460078285555843
+Classifier run 16 of 20.
+   AUC: 0.5576242250368693
+Classifier run 17 of 20.
+   AUC: 0.6900930467305391
+Classifier run 18 of 20.
+   AUC: 0.6143083209490101
+Classifier run 19 of 20.
+   AUC: 0.5990654067051171
+Classifier run 20 of 20.
+   AUC: 0.6063852071660251
+
+
+All done!
+Train CWoLa for SR
+cuda available: True
+Working on reweight_0.008_sr...
+      X train, y train, w train: (199281, 5) (199281, 1) (199281, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.503023781637223
+Classifier run 2 of 20.
+   AUC: 0.5405367582532802
+Classifier run 3 of 20.
+   AUC: 0.5185805299113908
+Classifier run 4 of 20.
+   AUC: 0.5101541644608524
+Classifier run 5 of 20.
+   AUC: 0.5570935280934343
+Classifier run 6 of 20.
+   AUC: 0.5114168407958055
+Classifier run 7 of 20.
+   AUC: 0.524945979020705
+Classifier run 8 of 20.
+   AUC: 0.5332098012679632
+Classifier run 9 of 20.
+   AUC: 0.5337668262136184
+Classifier run 10 of 20.
+   AUC: 0.5012086912753313
+Classifier run 11 of 20.
+   AUC: 0.5369533438803095
+Classifier run 12 of 20.
+   AUC: 0.5200681963605789
+Classifier run 13 of 20.
+   AUC: 0.5579441276372907
+Classifier run 14 of 20.
+   AUC: 0.525176094984127
+Classifier run 15 of 20.
+   AUC: 0.5033492279223618
+Classifier run 16 of 20.
+   AUC: 0.5170743176467326
+Classifier run 17 of 20.
+   AUC: 0.5277303426719259
+Classifier run 18 of 20.
+   AUC: 0.5125845560971021
+Classifier run 19 of 20.
+   AUC: 0.5294005147441357
+Classifier run 20 of 20.
+   AUC: 0.5864438181613505
+
+
+Working on generate_0.008_sr...
+      X train, y train, w train: (199281, 5) (199281, 1) (199281, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.5283104299842127
+Classifier run 2 of 20.
+   AUC: 0.5953358566737379
+Classifier run 3 of 20.
+   AUC: 0.5661409663761454
+Classifier run 4 of 20.
+   AUC: 0.6377860746004406
+Classifier run 5 of 20.
+   AUC: 0.5081591684929816
+Classifier run 6 of 20.
+   AUC: 0.5110381907107553
+Classifier run 7 of 20.
+   AUC: 0.5086085537422028
+Classifier run 8 of 20.
+   AUC: 0.5838492245256753
+Classifier run 9 of 20.
+   AUC: 0.5250993042048926
+Classifier run 10 of 20.
+   AUC: 0.5137200949260795
+Classifier run 11 of 20.
+   AUC: 0.5618842836856826
+Classifier run 12 of 20.
+   AUC: 0.5633278446218076
+Classifier run 13 of 20.
+   AUC: 0.5108446904494222
+Classifier run 14 of 20.
+   AUC: 0.6398874078015766
+Classifier run 15 of 20.
+   AUC: 0.528794135294754
+Classifier run 16 of 20.
+   AUC: 0.5317343164154597
+Classifier run 17 of 20.
+   AUC: 0.5943350200284552
+Classifier run 18 of 20.
+   AUC: 0.51535707212005
+Classifier run 19 of 20.
+   AUC: 0.5618712653269832
+Classifier run 20 of 20.
+   AUC: 0.5804344575185182
+
+
+Working on morph_0.008_sr...
+      X train, y train, w train: (199281, 5) (199281, 1) (199281, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.68686993845371
+Classifier run 2 of 20.
+   AUC: 0.7151702882921261
+Classifier run 3 of 20.
+   AUC: 0.716567454211038
+Classifier run 4 of 20.
+   AUC: 0.7237375717753483
+Classifier run 5 of 20.
+   AUC: 0.7148886468257476
+Classifier run 6 of 20.
+   AUC: 0.6657494372199972
+Classifier run 7 of 20.
+   AUC: 0.6918139060436284
+Classifier run 8 of 20.
+   AUC: 0.7108164670230502
+Classifier run 9 of 20.
+   AUC: 0.7064514274700135
+Classifier run 10 of 20.
+   AUC: 0.7450243892780886
+Classifier run 11 of 20.
+   AUC: 0.7099893660912112
+Classifier run 12 of 20.
+   AUC: 0.6353552068989704
+Classifier run 13 of 20.
+   AUC: 0.6990252255459009
+Classifier run 14 of 20.
+   AUC: 0.7150197410869155
+Classifier run 15 of 20.
+   AUC: 0.7237853217579102
+Classifier run 16 of 20.
+   AUC: 0.7075626070603315
+Classifier run 17 of 20.
+   AUC: 0.7155793743681405
+Classifier run 18 of 20.
+   AUC: 0.7366975494143617
+Classifier run 19 of 20.
+   AUC: 0.7451538061968864
+Classifier run 20 of 20.
+   AUC: 0.7488011296324293
+
+
+All done!
+Train CWoLa for SR
+cuda available: True
+Working on reweight_0.012_sr...
+      X train, y train, w train: (199534, 5) (199534, 1) (199534, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.6942120699327028
+Classifier run 2 of 20.
+   AUC: 0.6970929889110477
+Classifier run 3 of 20.
+   AUC: 0.7152831307500311
+Classifier run 4 of 20.
+   AUC: 0.6607521662805796
+Classifier run 5 of 20.
+   AUC: 0.6902234498721029
+Classifier run 6 of 20.
+   AUC: 0.6884675287850798
+Classifier run 7 of 20.
+   AUC: 0.691554017116771
+Classifier run 8 of 20.
+   AUC: 0.7178881440910561
+Classifier run 9 of 20.
+   AUC: 0.6854680808854573
+Classifier run 10 of 20.
+   AUC: 0.7043754070016713
+Classifier run 11 of 20.
+   AUC: 0.6741795198248706
+Classifier run 12 of 20.
+   AUC: 0.6777069927842652
+Classifier run 13 of 20.
+   AUC: 0.6943144905033495
+Classifier run 14 of 20.
+   AUC: 0.7108136894531811
+Classifier run 15 of 20.
+   AUC: 0.5846024877554361
+Classifier run 16 of 20.
+   AUC: 0.6986103815490019
+Classifier run 17 of 20.
+   AUC: 0.7006986568443417
+Classifier run 18 of 20.
+   AUC: 0.6632787983672431
+Classifier run 19 of 20.
+   AUC: 0.6764442778568005
+Classifier run 20 of 20.
+   AUC: 0.6956774671390983
+
+
+Working on generate_0.012_sr...
+      X train, y train, w train: (199534, 5) (199534, 1) (199534, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.5581211893979215
+Classifier run 2 of 20.
+   AUC: 0.523038391818378
+Classifier run 3 of 20.
+   AUC: 0.6038921035169045
+Classifier run 4 of 20.
+   AUC: 0.5771217074288846
+Classifier run 5 of 20.
+   AUC: 0.532115852347602
+Classifier run 6 of 20.
+   AUC: 0.642917611205429
+Classifier run 7 of 20.
+   AUC: 0.5000645831360138
+Classifier run 8 of 20.
+   AUC: 0.5111037678425849
+Classifier run 9 of 20.
+   AUC: 0.5805102047998815
+Classifier run 10 of 20.
+   AUC: 0.5432180084414494
+Classifier run 11 of 20.
+   AUC: 0.6681281350735762
+Classifier run 12 of 20.
+   AUC: 0.6481290917205687
+Classifier run 13 of 20.
+   AUC: 0.5624520466226296
+Classifier run 14 of 20.
+   AUC: 0.5054032535229396
+Classifier run 15 of 20.
+   AUC: 0.6092191613762279
+Classifier run 16 of 20.
+   AUC: 0.6332972488169355
+Classifier run 17 of 20.
+   AUC: 0.5362287186123136
+Classifier run 18 of 20.
+   AUC: 0.5595865710582171
+Classifier run 19 of 20.
+   AUC: 0.5475077027298145
+Classifier run 20 of 20.
+   AUC: 0.5706187241546565
+
+
+Working on morph_0.012_sr...
+      X train, y train, w train: (199534, 5) (199534, 1) (199534, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.71998628434144
+Classifier run 2 of 20.
+   AUC: 0.7492861349514919
+Classifier run 3 of 20.
+   AUC: 0.755529097429751
+Classifier run 4 of 20.
+   AUC: 0.736948534926098
+Classifier run 5 of 20.
+   AUC: 0.7013546935372921
+Classifier run 6 of 20.
+   AUC: 0.698307347694419
+Classifier run 7 of 20.
+   AUC: 0.7617615271525122
+Classifier run 8 of 20.
+   AUC: 0.697312431522225
+Classifier run 9 of 20.
+   AUC: 0.6895861178648551
+Classifier run 10 of 20.
+   AUC: 0.7577725529408444
+Classifier run 11 of 20.
+   AUC: 0.7705322759471764
+Classifier run 12 of 20.
+   AUC: 0.7438870431467998
+Classifier run 13 of 20.
+   AUC: 0.6911538328194464
+Classifier run 14 of 20.
+   AUC: 0.7115533098892255
+Classifier run 15 of 20.
+   AUC: 0.7289656386155097
+Classifier run 16 of 20.
+   AUC: 0.7158133749473956
+Classifier run 17 of 20.
+   AUC: 0.7269153908536046
+Classifier run 18 of 20.
+   AUC: 0.7166785741883354
+Classifier run 19 of 20.
+   AUC: 0.6538442406478374
+Classifier run 20 of 20.
+   AUC: 0.6661410730714845
+
+
+All done!
+Train CWoLa for SR
+cuda available: True
+Working on reweight_0.016_sr...
+      X train, y train, w train: (199757, 5) (199757, 1) (199757, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.621870517428658
+Classifier run 2 of 20.
+   AUC: 0.6331866016319955
+Classifier run 3 of 20.
+   AUC: 0.6263968438146291
+Classifier run 4 of 20.
+   AUC: 0.6438788273875027
+Classifier run 5 of 20.
+   AUC: 0.5821690714481487
+Classifier run 6 of 20.
+   AUC: 0.6952005189272912
+Classifier run 7 of 20.
+   AUC: 0.6103658513954715
+Classifier run 8 of 20.
+   AUC: 0.6743248672687345
+Classifier run 9 of 20.
+   AUC: 0.6300124609791935
+Classifier run 10 of 20.
+   AUC: 0.6387745904159852
+Classifier run 11 of 20.
+   AUC: 0.5980140965096455
+Classifier run 12 of 20.
+   AUC: 0.571618837224442
+Classifier run 13 of 20.
+   AUC: 0.6616794543266965
+Classifier run 14 of 20.
+   AUC: 0.6807411087596571
+Classifier run 15 of 20.
+   AUC: 0.6116458939514638
+Classifier run 16 of 20.
+   AUC: 0.6309232663409555
+Classifier run 17 of 20.
+   AUC: 0.5853385599987062
+Classifier run 18 of 20.
+   AUC: 0.601984946150606
+Classifier run 19 of 20.
+   AUC: 0.6478018287236371
+Classifier run 20 of 20.
+   AUC: 0.6544436292615075
+
+
+Working on generate_0.016_sr...
+      X train, y train, w train: (199757, 5) (199757, 1) (199757, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.5414461149639856
+Classifier run 2 of 20.
+   AUC: 0.5359169593045442
+Classifier run 3 of 20.
+   AUC: 0.5387976103172176
+Classifier run 4 of 20.
+   AUC: 0.5356699765044535
+Classifier run 5 of 20.
+   AUC: 0.5559008351187102
+Classifier run 6 of 20.
+   AUC: 0.5612557035872654
+Classifier run 7 of 20.
+   AUC: 0.5111337760430599
+Classifier run 8 of 20.
+   AUC: 0.5208617603999784
+Classifier run 9 of 20.
+   AUC: 0.5266642118611077
+Classifier run 10 of 20.
+   AUC: 0.5073103080667872
+Classifier run 11 of 20.
+   AUC: 0.541307128466044
+Classifier run 12 of 20.
+   AUC: 0.5271509411608403
+Classifier run 13 of 20.
+   AUC: 0.510444154455677
+Classifier run 14 of 20.
+   AUC: 0.5057862423335866
+Classifier run 15 of 20.
+   AUC: 0.515507742875845
+Classifier run 16 of 20.
+   AUC: 0.5407422103290302
+Classifier run 17 of 20.
+   AUC: 0.5147754892456678
+Classifier run 18 of 20.
+   AUC: 0.5294163742207971
+Classifier run 19 of 20.
+   AUC: 0.5600845265513299
+Classifier run 20 of 20.
+   AUC: 0.5258929112006211
+
+
+Working on morph_0.016_sr...
+      X train, y train, w train: (199757, 5) (199757, 1) (199757, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.837370187760243
+Classifier run 2 of 20.
+   AUC: 0.8420708114284284
+Classifier run 3 of 20.
+   AUC: 0.831987426451769
+Classifier run 4 of 20.
+   AUC: 0.8372882993602665
+Classifier run 5 of 20.
+   AUC: 0.8255469420451984
+Classifier run 6 of 20.
+   AUC: 0.820355477270196
+Classifier run 7 of 20.
+   AUC: 0.8384236036340507
+Classifier run 8 of 20.
+   AUC: 0.8494886254133676
+Classifier run 9 of 20.
+   AUC: 0.8309376294100321
+Classifier run 10 of 20.
+   AUC: 0.8292356444260527
+Classifier run 11 of 20.
+   AUC: 0.8273685707694698
+Classifier run 12 of 20.
+   AUC: 0.8230839591012241
+Classifier run 13 of 20.
+   AUC: 0.8140236056913724
+Classifier run 14 of 20.
+   AUC: 0.833749603071247
+Classifier run 15 of 20.
+   AUC: 0.8441822015925802
+Classifier run 16 of 20.
+   AUC: 0.8432613632687989
+Classifier run 17 of 20.
+   AUC: 0.8341069821367686
+Classifier run 18 of 20.
+   AUC: 0.8449156375445743
+Classifier run 19 of 20.
+   AUC: 0.8546379923041176
+Classifier run 20 of 20.
+   AUC: 0.8255485722037911
+
+
+All done!
+Train CWoLa for SR
+cuda available: True
+Working on reweight_0.02_sr...
+      X train, y train, w train: (199997, 5) (199997, 1) (199997, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.7811227005213901
+Classifier run 2 of 20.
+   AUC: 0.8001374395518948
+Classifier run 3 of 20.
+   AUC: 0.8077475709308732
+Classifier run 4 of 20.
+   AUC: 0.8268900739479104
+Classifier run 5 of 20.
+   AUC: 0.7933010347068515
+Classifier run 6 of 20.
+   AUC: 0.7777446561298518
+Classifier run 7 of 20.
+   AUC: 0.8045117503080503
+Classifier run 8 of 20.
+   AUC: 0.7936709563385905
+Classifier run 9 of 20.
+   AUC: 0.8085715841890586
+Classifier run 10 of 20.
+   AUC: 0.8203111451113592
+Classifier run 11 of 20.
+   AUC: 0.7635942016535822
+Classifier run 12 of 20.
+   AUC: 0.8099197418458925
+Classifier run 13 of 20.
+   AUC: 0.7783779832435451
+Classifier run 14 of 20.
+   AUC: 0.7724979478793421
+Classifier run 15 of 20.
+   AUC: 0.7967874491887859
+Classifier run 16 of 20.
+   AUC: 0.77504611813299
+Classifier run 17 of 20.
+   AUC: 0.7637449099109341
+Classifier run 18 of 20.
+   AUC: 0.7998240436761757
+Classifier run 19 of 20.
+   AUC: 0.7333685832423513
+Classifier run 20 of 20.
+   AUC: 0.7402235239479058
+
+
+Working on generate_0.02_sr...
+      X train, y train, w train: (199997, 5) (199997, 1) (199997, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.544795214699207
+Classifier run 2 of 20.
+   AUC: 0.5731722964053205
+Classifier run 3 of 20.
+   AUC: 0.5798033704069199
+Classifier run 4 of 20.
+   AUC: 0.6057553229680077
+Classifier run 5 of 20.
+   AUC: 0.5192609295249717
+Classifier run 6 of 20.
+   AUC: 0.6581659821304269
+Classifier run 7 of 20.
+   AUC: 0.5581354050790607
+Classifier run 8 of 20.
+   AUC: 0.6677575823247244
+Classifier run 9 of 20.
+   AUC: 0.5065079737087018
+Classifier run 10 of 20.
+   AUC: 0.5824209629975032
+Classifier run 11 of 20.
+   AUC: 0.6588729873941191
+Classifier run 12 of 20.
+   AUC: 0.7096805958620926
+Classifier run 13 of 20.
+   AUC: 0.6102497919858179
+Classifier run 14 of 20.
+   AUC: 0.5755029603554583
+Classifier run 15 of 20.
+   AUC: 0.6356029344117994
+Classifier run 16 of 20.
+   AUC: 0.6291690099139575
+Classifier run 17 of 20.
+   AUC: 0.6064841951850625
+Classifier run 18 of 20.
+   AUC: 0.5821805110594808
+Classifier run 19 of 20.
+   AUC: 0.5973952199050231
+Classifier run 20 of 20.
+   AUC: 0.6167302601434084
+
+
+Working on morph_0.02_sr...
+      X train, y train, w train: (199997, 5) (199997, 1) (199997, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.8202765310378317
+Classifier run 2 of 20.
+   AUC: 0.8283753666167217
+Classifier run 3 of 20.
+   AUC: 0.830608079090859
+Classifier run 4 of 20.
+   AUC: 0.8106646336371651
+Classifier run 5 of 20.
+   AUC: 0.8580376434563972
+Classifier run 6 of 20.
+   AUC: 0.8309205651106195
+Classifier run 7 of 20.
+   AUC: 0.8348227687650599
+Classifier run 8 of 20.
+   AUC: 0.8360080429772142
+Classifier run 9 of 20.
+   AUC: 0.8381945679882103
+Classifier run 10 of 20.
+   AUC: 0.8351562170642575
+Classifier run 11 of 20.
+   AUC: 0.8302003087058355
+Classifier run 12 of 20.
+   AUC: 0.8166681715836959
+Classifier run 13 of 20.
+   AUC: 0.8408046117199133
+Classifier run 14 of 20.
+   AUC: 0.819862833088516
+Classifier run 15 of 20.
+   AUC: 0.7902730947606134
+Classifier run 16 of 20.
+   AUC: 0.8061989242225341
+Classifier run 17 of 20.
+   AUC: 0.8180794706803209
+Classifier run 18 of 20.
+   AUC: 0.8449478246536986
+Classifier run 19 of 20.
+   AUC: 0.8505971914860825
+Classifier run 20 of 20.
+   AUC: 0.8261679915582212
+
+
+All done!
+Train CWoLa for SR
+cuda available: True
+Working on reweight_0.024_sr...
+      X train, y train, w train: (200248, 5) (200248, 1) (200248, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.6761973592866495
+Classifier run 2 of 20.
+   AUC: 0.6464682242619557
+Classifier run 3 of 20.
+   AUC: 0.7255677463544403
+Classifier run 4 of 20.
+   AUC: 0.6003923578451005
+Classifier run 5 of 20.
+   AUC: 0.6504777123708074
+Classifier run 6 of 20.
+   AUC: 0.6724479166566095
+Classifier run 7 of 20.
+   AUC: 0.6726719666409016
+Classifier run 8 of 20.
+   AUC: 0.6706610578759735
+Classifier run 9 of 20.
+   AUC: 0.6692496308649463
+Classifier run 10 of 20.
+   AUC: 0.6626628452476392
+Classifier run 11 of 20.
+   AUC: 0.6572973529288946
+Classifier run 12 of 20.
+   AUC: 0.6670690315090723
+Classifier run 13 of 20.
+   AUC: 0.7080285253141789
+Classifier run 14 of 20.
+   AUC: 0.653622031512704
+Classifier run 15 of 20.
+   AUC: 0.7139956757044568
+Classifier run 16 of 20.
+   AUC: 0.6812253093634901
+Classifier run 17 of 20.
+   AUC: 0.6132902744982733
+Classifier run 18 of 20.
+   AUC: 0.6742097788084853
+Classifier run 19 of 20.
+   AUC: 0.6957223792765612
+Classifier run 20 of 20.
+   AUC: 0.647429433489195
+
+
+Working on generate_0.024_sr...
+      X train, y train, w train: (200248, 5) (200248, 1) (200248, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.6736432118302849
+Classifier run 2 of 20.
+   AUC: 0.689697736681046
+Classifier run 3 of 20.
+   AUC: 0.716913542035024
+Classifier run 4 of 20.
+   AUC: 0.7171695159356946
+Classifier run 5 of 20.
+   AUC: 0.6965835826243202
+Classifier run 6 of 20.
+   AUC: 0.7012539553546794
+Classifier run 7 of 20.
+   AUC: 0.7051789356820717
+Classifier run 8 of 20.
+   AUC: 0.6935207414108122
+Classifier run 9 of 20.
+   AUC: 0.7413715231124136
+Classifier run 10 of 20.
+   AUC: 0.7086368926188227
+Classifier run 11 of 20.
+   AUC: 0.7257540070424618
+Classifier run 12 of 20.
+   AUC: 0.7640303244430598
+Classifier run 13 of 20.
+   AUC: 0.749330108459074
+Classifier run 14 of 20.
+   AUC: 0.7530716236690614
+Classifier run 15 of 20.
+   AUC: 0.6602870036490145
+Classifier run 16 of 20.
+   AUC: 0.8316024583771255
+Classifier run 17 of 20.
+   AUC: 0.8002120293306535
+Classifier run 18 of 20.
+   AUC: 0.7239519530400167
+Classifier run 19 of 20.
+   AUC: 0.7174260526324594
+Classifier run 20 of 20.
+   AUC: 0.6769165822848904
+
+
+Working on morph_0.024_sr...
+      X train, y train, w train: (200248, 5) (200248, 1) (200248, 1)
+      X test, y test: (151379, 5) (151379, 1)
+Classifier run 1 of 20.
+   AUC: 0.7190336797441889
+Classifier run 2 of 20.
+   AUC: 0.7069207324553858
+Classifier run 3 of 20.
+   AUC: 0.7563965121263121
+Classifier run 4 of 20.
+   AUC: 0.6992516546289723
+Classifier run 5 of 20.
+   AUC: 0.7350685945534755
+Classifier run 6 of 20.
+   AUC: 0.7506704206538035
+Classifier run 7 of 20.
+   AUC: 0.7597685494502574
+Classifier run 8 of 20.
+   AUC: 0.722753030170266
+Classifier run 9 of 20.
+   AUC: 0.7434929656030254
+Classifier run 10 of 20.
+   AUC: 0.7372753093118335
+Classifier run 11 of 20.
+   AUC: 0.7363958706614968
+Classifier run 12 of 20.
+   AUC: 0.7504655009637943
+Classifier run 13 of 20.
+   AUC: 0.7468352171448212
+Classifier run 14 of 20.
+   AUC: 0.7548950697869721
+Classifier run 15 of 20.
+   AUC: 0.7187834126259165
+Classifier run 16 of 20.
+   AUC: 0.7502887225785655
+Classifier run 17 of 20.
+   AUC: 0.7709441057734738
+Classifier run 18 of 20.
+   AUC: 0.7381774612233981
+Classifier run 19 of 20.
+   AUC: 0.7675103414320998
+Classifier run 20 of 20.
+   AUC: 0.7490909730302581
+
+
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+Working on reweight_0_cr...
+      X train, y train, w train: (20000, 5) (20000, 1) (20000, 1)
+      X test, y test: (20000, 5) (20000, 1)
+Classifier run 1 of 20.
+   AUC: 0.5153896199999999
+Classifier run 2 of 20.
+   AUC: 0.521653925
+Classifier run 3 of 20.
+   AUC: 0.517395445
+Classifier run 4 of 20.
+   AUC: 0.518759075
+Classifier run 5 of 20.
+   AUC: 0.519054925
+Classifier run 6 of 20.
+   AUC: 0.514130805
+Classifier run 7 of 20.
+   AUC: 0.5157153699999999
+Classifier run 8 of 20.
+   AUC: 0.5171506100000001
+Classifier run 9 of 20.
+   AUC: 0.517246445
+Classifier run 10 of 20.
+   AUC: 0.5141623049999999
+Classifier run 11 of 20.
+   AUC: 0.5158421449999999
+Classifier run 12 of 20.
+   AUC: 0.520977055
+Classifier run 13 of 20.
+   AUC: 0.51518025
+Classifier run 14 of 20.
+   AUC: 0.5167702350000001
+Classifier run 15 of 20.
+   AUC: 0.518561525
+Classifier run 16 of 20.
+   AUC: 0.516861245
+Classifier run 17 of 20.
+   AUC: 0.517214795
+Classifier run 18 of 20.
+   AUC: 0.5145378899999999
+Classifier run 19 of 20.
+   AUC: 0.52346699
+Classifier run 20 of 20.
+   AUC: 0.51732841
+Median auc, 16th percentile, 84th percentile
+0.5171827025 [0.5151886248, 0.5190430909999999]
+Done.
+Working on generate_0_cr...
+      X train, y train, w train: (20000, 5) (20000, 1) (20000, 1)
+      X test, y test: (20000, 5) (20000, 1)
+Classifier run 1 of 20.
+   AUC: 0.524623
+Classifier run 2 of 20.
+   AUC: 0.51873791
+Classifier run 3 of 20.
+   AUC: 0.53211933
+Classifier run 4 of 20.
+   AUC: 0.525970605
+Classifier run 5 of 20.
+   AUC: 0.52463217
+Classifier run 6 of 20.
+   AUC: 0.525388575
+Classifier run 7 of 20.
+   AUC: 0.522555945
+Classifier run 8 of 20.
+   AUC: 0.527224275
+Classifier run 9 of 20.
+   AUC: 0.5254918749999999
+Classifier run 10 of 20.
+   AUC: 0.52263313
+Classifier run 11 of 20.
+   AUC: 0.52000066
+Classifier run 12 of 20.
+   AUC: 0.526449425
+Classifier run 13 of 20.
+   AUC: 0.5281928200000001
+Classifier run 14 of 20.
+   AUC: 0.524475005
+Classifier run 15 of 20.
+   AUC: 0.5259433
+Classifier run 16 of 20.
+   AUC: 0.523682075
+Classifier run 17 of 20.
+   AUC: 0.5225333550000001
+Classifier run 18 of 20.
+   AUC: 0.53519131
+Classifier run 19 of 20.
+   AUC: 0.5237672649999999
+Classifier run 20 of 20.
+   AUC: 0.5259034850000001
+Median auc, 16th percentile, 84th percentile
+0.5250103724999999 [0.5225590324, 0.5271932810000001]
+Done.
+Working on morph_0_cr...
+      X train, y train, w train: (20000, 5) (20000, 1) (20000, 1)
+      X test, y test: (20000, 5) (20000, 1)
+Classifier run 1 of 20.
+   AUC: 0.5250738149999999
+Classifier run 2 of 20.
+   AUC: 0.52830914
+Classifier run 3 of 20.
+   AUC: 0.522223805
+Classifier run 4 of 20.
+   AUC: 0.520980385
+Classifier run 5 of 20.
+   AUC: 0.5227107200000001
+Classifier run 6 of 20.
+   AUC: 0.521009295
+Classifier run 7 of 20.
+   AUC: 0.52554812
+Classifier run 8 of 20.
+   AUC: 0.530017235
+Classifier run 9 of 20.
+   AUC: 0.5209857950000001
+Classifier run 10 of 20.
+   AUC: 0.5225480250000001
+Classifier run 11 of 20.
+   AUC: 0.519688215
+Classifier run 12 of 20.
+   AUC: 0.5243979750000001
+Classifier run 13 of 20.
+   AUC: 0.51994699
+Classifier run 14 of 20.
+   AUC: 0.527745645
+Classifier run 15 of 20.
+   AUC: 0.522771875
+Classifier run 16 of 20.
+   AUC: 0.522213885
+Classifier run 17 of 20.
+   AUC: 0.530576375
+Classifier run 18 of 20.
+   AUC: 0.522245005
+Classifier run 19 of 20.
+   AUC: 0.523206935
+Classifier run 20 of 20.
+   AUC: 0.52327011
+Median auc, 16th percentile, 84th percentile
+0.5227412975000001 [0.520986735, 0.527657744]
+Done.
+All done!

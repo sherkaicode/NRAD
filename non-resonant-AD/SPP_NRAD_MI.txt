@@ -1,0 +1,2358 @@
+Activate Environment
+Virtual environment 'mlenv' is activated. Continuing...
+Generate Base
+Loading 46 Test samples and 20 MC samples...
+Done loading!
+(10109579, 7)
+Saving out trained minmax scaler.
+(21431374, 7)
+(166143, 7)
+Test dataset in SR: N sig=30276, N bkg=121103
+Fully supervised dataset in SR: N sig=1770, N bkg=45040
+Finished generating datasets.
+Running 10 Seeds
+Creating signal injection for Seed 1
+Loading in trained minmax scaler.
+Loading 20 samples of bkg
+Done loading!
+S/B=0.0 in SR, S/sqrt(B) = 0.0, N bkg SR: 7.2e+04, N sig SR: 0
+S/B=0.00325 in SR, S/sqrt(B) = 0.87406, N bkg SR: 7.2e+04, N sig SR: 235
+S/B=0.00629 in SR, S/sqrt(B) = 1.69233, N bkg SR: 7.2e+04, N sig SR: 455
+S/B=0.00957 in SR, S/sqrt(B) = 2.57382, N bkg SR: 7.2e+04, N sig SR: 692
+S/B=0.0132 in SR, S/sqrt(B) = 3.54831, N bkg SR: 7.2e+04, N sig SR: 954
+S/B=0.01625 in SR, S/sqrt(B) = 4.3703, N bkg SR: 7.2e+04, N sig SR: 1175
+S/B=0.01958 in SR, S/sqrt(B) = 5.26295, N bkg SR: 7.2e+04, N sig SR: 1415
+Finished generating dataset. (Gen seed: 1)
+Run Program for all signal injections
+Training Model
+cuda available: True
+Working with s/b = 0
+CR has 9247308 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0
+Train Context Weights Done for seed = 1
+cuda available: True
+Working with s/b = 0
+CR has 9247308 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0
+Done training for s/b = 0
+Train Reweight Done for seed = 1
+cuda available: True
+Working with s/b = 0
+CR has 9247308 events.
+Training Generate model...
+Done training for s/b 0
+Train Generate Done for seed = 1
+cuda available: True
+Working with s/b = 0
+CR has 9247308 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0
+Train Morph Done for seed 1
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0
+Generated Samples for s/b = 0
+cuda available: True
+Loading model
+Making samples for s/b = 0
+Generated Samples for s/b = 0
+cuda available: True
+Loading model
+Making samples for s/b = 0
+cuda available: True
+Loading Model
+Making samples for s/b = 0
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.004
+CR has 9247362 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.004
+Train Context Weights Done for seed = 1
+cuda available: True
+Working with s/b = 0.004
+CR has 9247362 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.004
+Done training for s/b = 0.004
+Train Reweight Done for seed = 1
+cuda available: True
+Working with s/b = 0.004
+CR has 9247362 events.
+Training Generate model...
+Done training for s/b 0.004
+Train Generate Done for seed = 1
+cuda available: True
+Working with s/b = 0.004
+CR has 9247362 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.004
+Train Morph Done for seed 1
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.004
+Generated Samples for s/b = 0.004
+cuda available: True
+Loading model
+Making samples for s/b = 0.004
+Generated Samples for s/b = 0.004
+cuda available: True
+Loading model
+Making samples for s/b = 0.004
+cuda available: True
+Loading Model
+Making samples for s/b = 0.004
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.008
+CR has 9247431 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.008
+Train Context Weights Done for seed = 1
+cuda available: True
+Working with s/b = 0.008
+CR has 9247431 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.008
+Done training for s/b = 0.008
+Train Reweight Done for seed = 1
+cuda available: True
+Working with s/b = 0.008
+CR has 9247431 events.
+Training Generate model...
+Done training for s/b 0.008
+Train Generate Done for seed = 1
+cuda available: True
+Working with s/b = 0.008
+CR has 9247431 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.008
+Train Morph Done for seed 1
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.008
+Generated Samples for s/b = 0.008
+cuda available: True
+Loading model
+Making samples for s/b = 0.008
+Generated Samples for s/b = 0.008
+cuda available: True
+Loading model
+Making samples for s/b = 0.008
+cuda available: True
+Loading Model
+Making samples for s/b = 0.008
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.012
+CR has 9247483 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.012
+Train Context Weights Done for seed = 1
+cuda available: True
+Working with s/b = 0.012
+CR has 9247483 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.012
+Done training for s/b = 0.012
+Train Reweight Done for seed = 1
+cuda available: True
+Working with s/b = 0.012
+CR has 9247483 events.
+Training Generate model...
+Done training for s/b 0.012
+Train Generate Done for seed = 1
+cuda available: True
+Working with s/b = 0.012
+CR has 9247483 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.012
+Train Morph Done for seed 1
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.012
+Generated Samples for s/b = 0.012
+cuda available: True
+Loading model
+Making samples for s/b = 0.012
+Generated Samples for s/b = 0.012
+cuda available: True
+Loading model
+Making samples for s/b = 0.012
+cuda available: True
+Loading Model
+Making samples for s/b = 0.012
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.016
+CR has 9247510 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.016
+Train Context Weights Done for seed = 1
+cuda available: True
+Working with s/b = 0.016
+CR has 9247510 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.016
+Done training for s/b = 0.016
+Train Reweight Done for seed = 1
+cuda available: True
+Working with s/b = 0.016
+CR has 9247510 events.
+Training Generate model...
+Done training for s/b 0.016
+Train Generate Done for seed = 1
+cuda available: True
+Working with s/b = 0.016
+CR has 9247510 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.016
+Train Morph Done for seed 1
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.016
+Generated Samples for s/b = 0.016
+cuda available: True
+Loading model
+Making samples for s/b = 0.016
+Generated Samples for s/b = 0.016
+cuda available: True
+Loading model
+Making samples for s/b = 0.016
+cuda available: True
+Loading Model
+Making samples for s/b = 0.016
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.02
+CR has 9247578 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.02
+Train Context Weights Done for seed = 1
+cuda available: True
+Working with s/b = 0.02
+CR has 9247578 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.02
+Done training for s/b = 0.02
+Train Reweight Done for seed = 1
+cuda available: True
+Working with s/b = 0.02
+CR has 9247578 events.
+Training Generate model...
+Done training for s/b 0.02
+Train Generate Done for seed = 1
+cuda available: True
+Working with s/b = 0.02
+CR has 9247578 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.02
+Train Morph Done for seed 1
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.02
+Generated Samples for s/b = 0.02
+cuda available: True
+Loading model
+Making samples for s/b = 0.02
+Generated Samples for s/b = 0.02
+cuda available: True
+Loading model
+Making samples for s/b = 0.02
+cuda available: True
+Loading Model
+Making samples for s/b = 0.02
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.024
+CR has 9247627 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.024
+Train Context Weights Done for seed = 1
+cuda available: True
+Working with s/b = 0.024
+CR has 9247627 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.024
+Done training for s/b = 0.024
+Train Reweight Done for seed = 1
+cuda available: True
+Working with s/b = 0.024
+CR has 9247627 events.
+Training Generate model...
+Done training for s/b 0.024
+Train Generate Done for seed = 1
+cuda available: True
+Working with s/b = 0.024
+CR has 9247627 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.024
+Train Morph Done for seed 1
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.024
+Generated Samples for s/b = 0.024
+cuda available: True
+Loading model
+Making samples for s/b = 0.024
+Generated Samples for s/b = 0.024
+cuda available: True
+Loading model
+Making samples for s/b = 0.024
+cuda available: True
+Loading Model
+Making samples for s/b = 0.024
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Creating signal injection for Seed 2
+Loading in trained minmax scaler.
+Loading 20 samples of bkg
+Done loading!
+S/B=0.0 in SR, S/sqrt(B) = 0.0, N bkg SR: 7.2e+04, N sig SR: 0
+S/B=0.00311 in SR, S/sqrt(B) = 0.83687, N bkg SR: 7.2e+04, N sig SR: 225
+S/B=0.00628 in SR, S/sqrt(B) = 1.68861, N bkg SR: 7.2e+04, N sig SR: 454
+S/B=0.00975 in SR, S/sqrt(B) = 2.62218, N bkg SR: 7.2e+04, N sig SR: 705
+S/B=0.01306 in SR, S/sqrt(B) = 3.51111, N bkg SR: 7.2e+04, N sig SR: 944
+S/B=0.01608 in SR, S/sqrt(B) = 4.32194, N bkg SR: 7.2e+04, N sig SR: 1162
+S/B=0.01942 in SR, S/sqrt(B) = 5.22204, N bkg SR: 7.2e+04, N sig SR: 1404
+Finished generating dataset. (Gen seed: 2)
+Run Program for all signal injections
+Training Model
+cuda available: True
+Working with s/b = 0
+CR has 9247308 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0
+Train Context Weights Done for seed = 2
+cuda available: True
+Working with s/b = 0
+CR has 9247308 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0
+Done training for s/b = 0
+Train Reweight Done for seed = 2
+cuda available: True
+Working with s/b = 0
+CR has 9247308 events.
+Training Generate model...
+Done training for s/b 0
+Train Generate Done for seed = 2
+cuda available: True
+Working with s/b = 0
+CR has 9247308 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0
+Train Morph Done for seed 2
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0
+Generated Samples for s/b = 0
+cuda available: True
+Loading model
+Making samples for s/b = 0
+Generated Samples for s/b = 0
+cuda available: True
+Loading model
+Making samples for s/b = 0
+cuda available: True
+Loading Model
+Making samples for s/b = 0
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.004
+CR has 9247372 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.004
+Train Context Weights Done for seed = 2
+cuda available: True
+Working with s/b = 0.004
+CR has 9247372 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.004
+Done training for s/b = 0.004
+Train Reweight Done for seed = 2
+cuda available: True
+Working with s/b = 0.004
+CR has 9247372 events.
+Training Generate model...
+Done training for s/b 0.004
+Train Generate Done for seed = 2
+cuda available: True
+Working with s/b = 0.004
+CR has 9247372 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.004
+Train Morph Done for seed 2
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.004
+Generated Samples for s/b = 0.004
+cuda available: True
+Loading model
+Making samples for s/b = 0.004
+Generated Samples for s/b = 0.004
+cuda available: True
+Loading model
+Making samples for s/b = 0.004
+cuda available: True
+Loading Model
+Making samples for s/b = 0.004
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.008
+CR has 9247432 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.008
+Train Context Weights Done for seed = 2
+cuda available: True
+Working with s/b = 0.008
+CR has 9247432 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.008
+Done training for s/b = 0.008
+Train Reweight Done for seed = 2
+cuda available: True
+Working with s/b = 0.008
+CR has 9247432 events.
+Training Generate model...
+Done training for s/b 0.008
+Train Generate Done for seed = 2
+cuda available: True
+Working with s/b = 0.008
+CR has 9247432 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.008
+Train Morph Done for seed 2
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.008
+Generated Samples for s/b = 0.008
+cuda available: True
+Loading model
+Making samples for s/b = 0.008
+Generated Samples for s/b = 0.008
+cuda available: True
+Loading model
+Making samples for s/b = 0.008
+cuda available: True
+Loading Model
+Making samples for s/b = 0.008
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.012
+CR has 9247470 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.012
+Train Context Weights Done for seed = 2
+cuda available: True
+Working with s/b = 0.012
+CR has 9247470 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.012
+Done training for s/b = 0.012
+Train Reweight Done for seed = 2
+cuda available: True
+Working with s/b = 0.012
+CR has 9247470 events.
+Training Generate model...
+Done training for s/b 0.012
+Train Generate Done for seed = 2
+cuda available: True
+Working with s/b = 0.012
+CR has 9247470 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.012
+Train Morph Done for seed 2
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.012
+Generated Samples for s/b = 0.012
+cuda available: True
+Loading model
+Making samples for s/b = 0.012
+Generated Samples for s/b = 0.012
+cuda available: True
+Loading model
+Making samples for s/b = 0.012
+cuda available: True
+Loading Model
+Making samples for s/b = 0.012
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.016
+CR has 9247520 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.016
+Train Context Weights Done for seed = 2
+cuda available: True
+Working with s/b = 0.016
+CR has 9247520 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.016
+Done training for s/b = 0.016
+Train Reweight Done for seed = 2
+cuda available: True
+Working with s/b = 0.016
+CR has 9247520 events.
+Training Generate model...
+Done training for s/b 0.016
+Train Generate Done for seed = 2
+cuda available: True
+Working with s/b = 0.016
+CR has 9247520 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.016
+Train Morph Done for seed 2
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.016
+Generated Samples for s/b = 0.016
+cuda available: True
+Loading model
+Making samples for s/b = 0.016
+Generated Samples for s/b = 0.016
+cuda available: True
+Loading model
+Making samples for s/b = 0.016
+cuda available: True
+Loading Model
+Making samples for s/b = 0.016
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.02
+CR has 9247591 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.02
+Train Context Weights Done for seed = 2
+cuda available: True
+Working with s/b = 0.02
+CR has 9247591 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.02
+Done training for s/b = 0.02
+Train Reweight Done for seed = 2
+cuda available: True
+Working with s/b = 0.02
+CR has 9247591 events.
+Training Generate model...
+Done training for s/b 0.02
+Train Generate Done for seed = 2
+cuda available: True
+Working with s/b = 0.02
+CR has 9247591 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.02
+Train Morph Done for seed 2
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.02
+Generated Samples for s/b = 0.02
+cuda available: True
+Loading model
+Making samples for s/b = 0.02
+Generated Samples for s/b = 0.02
+cuda available: True
+Loading model
+Making samples for s/b = 0.02
+cuda available: True
+Loading Model
+Making samples for s/b = 0.02
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.024
+CR has 9247638 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.024
+Train Context Weights Done for seed = 2
+cuda available: True
+Working with s/b = 0.024
+CR has 9247638 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.024
+Done training for s/b = 0.024
+Train Reweight Done for seed = 2
+cuda available: True
+Working with s/b = 0.024
+CR has 9247638 events.
+Training Generate model...
+Done training for s/b 0.024
+Train Generate Done for seed = 2
+cuda available: True
+Working with s/b = 0.024
+CR has 9247638 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.024
+Train Morph Done for seed 2
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.024
+Generated Samples for s/b = 0.024
+cuda available: True
+Loading model
+Making samples for s/b = 0.024
+Generated Samples for s/b = 0.024
+cuda available: True
+Loading model
+Making samples for s/b = 0.024
+cuda available: True
+Loading Model
+Making samples for s/b = 0.024
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Creating signal injection for Seed 3
+Loading in trained minmax scaler.
+Loading 20 samples of bkg
+Done loading!
+S/B=0.0 in SR, S/sqrt(B) = 0.0, N bkg SR: 7.2e+04, N sig SR: 0
+S/B=0.00321 in SR, S/sqrt(B) = 0.8629, N bkg SR: 7.2e+04, N sig SR: 232
+S/B=0.00653 in SR, S/sqrt(B) = 1.75556, N bkg SR: 7.2e+04, N sig SR: 472
+S/B=0.00968 in SR, S/sqrt(B) = 2.60358, N bkg SR: 7.2e+04, N sig SR: 700
+S/B=0.01289 in SR, S/sqrt(B) = 3.46648, N bkg SR: 7.2e+04, N sig SR: 932
+S/B=0.01625 in SR, S/sqrt(B) = 4.3703, N bkg SR: 7.2e+04, N sig SR: 1175
+S/B=0.01977 in SR, S/sqrt(B) = 5.31502, N bkg SR: 7.2e+04, N sig SR: 1429
+Finished generating dataset. (Gen seed: 3)
+Run Program for all signal injections
+Training Model
+cuda available: True
+Working with s/b = 0
+CR has 9247308 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0
+Train Context Weights Done for seed = 3
+cuda available: True
+Working with s/b = 0
+CR has 9247308 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0
+Done training for s/b = 0
+Train Reweight Done for seed = 3
+cuda available: True
+Working with s/b = 0
+CR has 9247308 events.
+Training Generate model...
+Done training for s/b 0
+Train Generate Done for seed = 3
+cuda available: True
+Working with s/b = 0
+CR has 9247308 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0
+Train Morph Done for seed 3
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0
+Generated Samples for s/b = 0
+cuda available: True
+Loading model
+Making samples for s/b = 0
+Generated Samples for s/b = 0
+cuda available: True
+Loading model
+Making samples for s/b = 0
+cuda available: True
+Loading Model
+Making samples for s/b = 0
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.004
+CR has 9247365 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.004
+Train Context Weights Done for seed = 3
+cuda available: True
+Working with s/b = 0.004
+CR has 9247365 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.004
+Done training for s/b = 0.004
+Train Reweight Done for seed = 3
+cuda available: True
+Working with s/b = 0.004
+CR has 9247365 events.
+Training Generate model...
+Done training for s/b 0.004
+Train Generate Done for seed = 3
+cuda available: True
+Working with s/b = 0.004
+CR has 9247365 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.004
+Train Morph Done for seed 3
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.004
+Generated Samples for s/b = 0.004
+cuda available: True
+Loading model
+Making samples for s/b = 0.004
+Generated Samples for s/b = 0.004
+cuda available: True
+Loading model
+Making samples for s/b = 0.004
+cuda available: True
+Loading Model
+Making samples for s/b = 0.004
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.008
+CR has 9247414 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.008
+Train Context Weights Done for seed = 3
+cuda available: True
+Working with s/b = 0.008
+CR has 9247414 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.008
+Done training for s/b = 0.008
+Train Reweight Done for seed = 3
+cuda available: True
+Working with s/b = 0.008
+CR has 9247414 events.
+Training Generate model...
+Done training for s/b 0.008
+Train Generate Done for seed = 3
+cuda available: True
+Working with s/b = 0.008
+CR has 9247414 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.008
+Train Morph Done for seed 3
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.008
+Generated Samples for s/b = 0.008
+cuda available: True
+Loading model
+Making samples for s/b = 0.008
+Generated Samples for s/b = 0.008
+cuda available: True
+Loading model
+Making samples for s/b = 0.008
+cuda available: True
+Loading Model
+Making samples for s/b = 0.008
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.012
+CR has 9247475 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.012
+Train Context Weights Done for seed = 3
+cuda available: True
+Working with s/b = 0.012
+CR has 9247475 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.012
+Done training for s/b = 0.012
+Train Reweight Done for seed = 3
+cuda available: True
+Working with s/b = 0.012
+CR has 9247475 events.
+Training Generate model...
+Done training for s/b 0.012
+Train Generate Done for seed = 3
+cuda available: True
+Working with s/b = 0.012
+CR has 9247475 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.012
+Train Morph Done for seed 3
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.012
+Generated Samples for s/b = 0.012
+cuda available: True
+Loading model
+Making samples for s/b = 0.012
+Generated Samples for s/b = 0.012
+cuda available: True
+Loading model
+Making samples for s/b = 0.012
+cuda available: True
+Loading Model
+Making samples for s/b = 0.012
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.016
+CR has 9247532 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.016
+Train Context Weights Done for seed = 3
+cuda available: True
+Working with s/b = 0.016
+CR has 9247532 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.016
+Done training for s/b = 0.016
+Train Reweight Done for seed = 3
+cuda available: True
+Working with s/b = 0.016
+CR has 9247532 events.
+Training Generate model...
+Done training for s/b 0.016
+Train Generate Done for seed = 3
+cuda available: True
+Working with s/b = 0.016
+CR has 9247532 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.016
+Train Morph Done for seed 3
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.016
+Generated Samples for s/b = 0.016
+cuda available: True
+Loading model
+Making samples for s/b = 0.016
+Generated Samples for s/b = 0.016
+cuda available: True
+Loading model
+Making samples for s/b = 0.016
+cuda available: True
+Loading Model
+Making samples for s/b = 0.016
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.02
+CR has 9247578 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.02
+Train Context Weights Done for seed = 3
+cuda available: True
+Working with s/b = 0.02
+CR has 9247578 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.02
+Done training for s/b = 0.02
+Train Reweight Done for seed = 3
+cuda available: True
+Working with s/b = 0.02
+CR has 9247578 events.
+Training Generate model...
+Done training for s/b 0.02
+Train Generate Done for seed = 3
+cuda available: True
+Working with s/b = 0.02
+CR has 9247578 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.02
+Train Morph Done for seed 3
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.02
+Generated Samples for s/b = 0.02
+cuda available: True
+Loading model
+Making samples for s/b = 0.02
+Generated Samples for s/b = 0.02
+cuda available: True
+Loading model
+Making samples for s/b = 0.02
+cuda available: True
+Loading Model
+Making samples for s/b = 0.02
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.024
+CR has 9247613 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.024
+Train Context Weights Done for seed = 3
+cuda available: True
+Working with s/b = 0.024
+CR has 9247613 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.024
+Done training for s/b = 0.024
+Train Reweight Done for seed = 3
+cuda available: True
+Working with s/b = 0.024
+CR has 9247613 events.
+Training Generate model...
+Done training for s/b 0.024
+Train Generate Done for seed = 3
+cuda available: True
+Working with s/b = 0.024
+CR has 9247613 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.024
+Train Morph Done for seed 3
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.024
+Generated Samples for s/b = 0.024
+cuda available: True
+Loading model
+Making samples for s/b = 0.024
+Generated Samples for s/b = 0.024
+cuda available: True
+Loading model
+Making samples for s/b = 0.024
+cuda available: True
+Loading Model
+Making samples for s/b = 0.024
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Creating signal injection for Seed 4
+Loading in trained minmax scaler.
+Loading 20 samples of bkg
+Done loading!
+S/B=0.0 in SR, S/sqrt(B) = 0.0, N bkg SR: 7.2e+04, N sig SR: 0
+S/B=0.0032 in SR, S/sqrt(B) = 0.85918, N bkg SR: 7.2e+04, N sig SR: 231
+S/B=0.00656 in SR, S/sqrt(B) = 1.763, N bkg SR: 7.2e+04, N sig SR: 474
+S/B=0.00982 in SR, S/sqrt(B) = 2.64077, N bkg SR: 7.2e+04, N sig SR: 710
+S/B=0.013 in SR, S/sqrt(B) = 3.49624, N bkg SR: 7.2e+04, N sig SR: 940
+S/B=0.01643 in SR, S/sqrt(B) = 4.41865, N bkg SR: 7.2e+04, N sig SR: 1188
+S/B=0.01938 in SR, S/sqrt(B) = 5.21088, N bkg SR: 7.2e+04, N sig SR: 1401
+Finished generating dataset. (Gen seed: 4)
+Run Program for all signal injections
+Training Model
+cuda available: True
+Working with s/b = 0
+CR has 9247308 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0
+Train Context Weights Done for seed = 4
+cuda available: True
+Working with s/b = 0
+CR has 9247308 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0
+Done training for s/b = 0
+Train Reweight Done for seed = 4
+cuda available: True
+Working with s/b = 0
+CR has 9247308 events.
+Training Generate model...
+Done training for s/b 0
+Train Generate Done for seed = 4
+cuda available: True
+Working with s/b = 0
+CR has 9247308 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0
+Train Morph Done for seed 4
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0
+Generated Samples for s/b = 0
+cuda available: True
+Loading model
+Making samples for s/b = 0
+Generated Samples for s/b = 0
+cuda available: True
+Loading model
+Making samples for s/b = 0
+cuda available: True
+Loading Model
+Making samples for s/b = 0
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.004
+CR has 9247366 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.004
+Train Context Weights Done for seed = 4
+cuda available: True
+Working with s/b = 0.004
+CR has 9247366 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.004
+Done training for s/b = 0.004
+Train Reweight Done for seed = 4
+cuda available: True
+Working with s/b = 0.004
+CR has 9247366 events.
+Training Generate model...
+Done training for s/b 0.004
+Train Generate Done for seed = 4
+cuda available: True
+Working with s/b = 0.004
+CR has 9247366 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.004
+Train Morph Done for seed 4
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.004
+Generated Samples for s/b = 0.004
+cuda available: True
+Loading model
+Making samples for s/b = 0.004
+Generated Samples for s/b = 0.004
+cuda available: True
+Loading model
+Making samples for s/b = 0.004
+cuda available: True
+Loading Model
+Making samples for s/b = 0.004
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.008
+CR has 9247412 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.008
+Train Context Weights Done for seed = 4
+cuda available: True
+Working with s/b = 0.008
+CR has 9247412 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.008
+Done training for s/b = 0.008
+Train Reweight Done for seed = 4
+cuda available: True
+Working with s/b = 0.008
+CR has 9247412 events.
+Training Generate model...
+Done training for s/b 0.008
+Train Generate Done for seed = 4
+cuda available: True
+Working with s/b = 0.008
+CR has 9247412 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.008
+Train Morph Done for seed 4
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.008
+Generated Samples for s/b = 0.008
+cuda available: True
+Loading model
+Making samples for s/b = 0.008
+Generated Samples for s/b = 0.008
+cuda available: True
+Loading model
+Making samples for s/b = 0.008
+cuda available: True
+Loading Model
+Making samples for s/b = 0.008
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.012
+CR has 9247465 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.012
+Train Context Weights Done for seed = 4
+cuda available: True
+Working with s/b = 0.012
+CR has 9247465 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.012
+Done training for s/b = 0.012
+Train Reweight Done for seed = 4
+cuda available: True
+Working with s/b = 0.012
+CR has 9247465 events.
+Training Generate model...
+Done training for s/b 0.012
+Train Generate Done for seed = 4
+cuda available: True
+Working with s/b = 0.012
+CR has 9247465 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.012
+Train Morph Done for seed 4
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.012
+Generated Samples for s/b = 0.012
+cuda available: True
+Loading model
+Making samples for s/b = 0.012
+Generated Samples for s/b = 0.012
+cuda available: True
+Loading model
+Making samples for s/b = 0.012
+cuda available: True
+Loading Model
+Making samples for s/b = 0.012
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.016
+CR has 9247524 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.016
+Train Context Weights Done for seed = 4
+cuda available: True
+Working with s/b = 0.016
+CR has 9247524 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.016
+Done training for s/b = 0.016
+Train Reweight Done for seed = 4
+cuda available: True
+Working with s/b = 0.016
+CR has 9247524 events.
+Training Generate model...
+Done training for s/b 0.016
+Train Generate Done for seed = 4
+cuda available: True
+Working with s/b = 0.016
+CR has 9247524 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.016
+Train Morph Done for seed 4
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.016
+Generated Samples for s/b = 0.016
+cuda available: True
+Loading model
+Making samples for s/b = 0.016
+Generated Samples for s/b = 0.016
+cuda available: True
+Loading model
+Making samples for s/b = 0.016
+cuda available: True
+Loading Model
+Making samples for s/b = 0.016
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.02
+CR has 9247565 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.02
+Train Context Weights Done for seed = 4
+cuda available: True
+Working with s/b = 0.02
+CR has 9247565 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.02
+Done training for s/b = 0.02
+Train Reweight Done for seed = 4
+cuda available: True
+Working with s/b = 0.02
+CR has 9247565 events.
+Training Generate model...
+Done training for s/b 0.02
+Train Generate Done for seed = 4
+cuda available: True
+Working with s/b = 0.02
+CR has 9247565 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.02
+Train Morph Done for seed 4
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.02
+Generated Samples for s/b = 0.02
+cuda available: True
+Loading model
+Making samples for s/b = 0.02
+Generated Samples for s/b = 0.02
+cuda available: True
+Loading model
+Making samples for s/b = 0.02
+cuda available: True
+Loading Model
+Making samples for s/b = 0.02
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.024
+CR has 9247641 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.024
+Train Context Weights Done for seed = 4
+cuda available: True
+Working with s/b = 0.024
+CR has 9247641 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.024
+Done training for s/b = 0.024
+Train Reweight Done for seed = 4
+cuda available: True
+Working with s/b = 0.024
+CR has 9247641 events.
+Training Generate model...
+Done training for s/b 0.024
+Train Generate Done for seed = 4
+cuda available: True
+Working with s/b = 0.024
+CR has 9247641 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.024
+Train Morph Done for seed 4
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.024
+Generated Samples for s/b = 0.024
+cuda available: True
+Loading model
+Making samples for s/b = 0.024
+Generated Samples for s/b = 0.024
+cuda available: True
+Loading model
+Making samples for s/b = 0.024
+cuda available: True
+Loading Model
+Making samples for s/b = 0.024
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Creating signal injection for Seed 5
+Loading in trained minmax scaler.
+Loading 20 samples of bkg
+Done loading!
+S/B=0.0 in SR, S/sqrt(B) = 0.0, N bkg SR: 7.2e+04, N sig SR: 0
+S/B=0.00322 in SR, S/sqrt(B) = 0.86662, N bkg SR: 7.2e+04, N sig SR: 233
+S/B=0.00628 in SR, S/sqrt(B) = 1.68861, N bkg SR: 7.2e+04, N sig SR: 454
+S/B=0.00978 in SR, S/sqrt(B) = 2.62962, N bkg SR: 7.2e+04, N sig SR: 707
+S/B=0.01287 in SR, S/sqrt(B) = 3.45904, N bkg SR: 7.2e+04, N sig SR: 930
+S/B=0.01619 in SR, S/sqrt(B) = 4.3517, N bkg SR: 7.2e+04, N sig SR: 1170
+S/B=0.01966 in SR, S/sqrt(B) = 5.28527, N bkg SR: 7.2e+04, N sig SR: 1421
+Finished generating dataset. (Gen seed: 5)
+Run Program for all signal injections
+Training Model
+cuda available: True
+Working with s/b = 0
+CR has 9247308 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0
+Train Context Weights Done for seed = 5
+cuda available: True
+Working with s/b = 0
+CR has 9247308 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0
+Done training for s/b = 0
+Train Reweight Done for seed = 5
+cuda available: True
+Working with s/b = 0
+CR has 9247308 events.
+Training Generate model...
+Done training for s/b 0
+Train Generate Done for seed = 5
+cuda available: True
+Working with s/b = 0
+CR has 9247308 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0
+Train Morph Done for seed 5
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0
+Generated Samples for s/b = 0
+cuda available: True
+Loading model
+Making samples for s/b = 0
+Generated Samples for s/b = 0
+cuda available: True
+Loading model
+Making samples for s/b = 0
+cuda available: True
+Loading Model
+Making samples for s/b = 0
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.004
+CR has 9247364 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.004
+Train Context Weights Done for seed = 5
+cuda available: True
+Working with s/b = 0.004
+CR has 9247364 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.004
+Done training for s/b = 0.004
+Train Reweight Done for seed = 5
+cuda available: True
+Working with s/b = 0.004
+CR has 9247364 events.
+Training Generate model...
+Done training for s/b 0.004
+Train Generate Done for seed = 5
+cuda available: True
+Working with s/b = 0.004
+CR has 9247364 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.004
+Train Morph Done for seed 5
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.004
+Generated Samples for s/b = 0.004
+cuda available: True
+Loading model
+Making samples for s/b = 0.004
+Generated Samples for s/b = 0.004
+cuda available: True
+Loading model
+Making samples for s/b = 0.004
+cuda available: True
+Loading Model
+Making samples for s/b = 0.004
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.008
+CR has 9247432 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.008
+Train Context Weights Done for seed = 5
+cuda available: True
+Working with s/b = 0.008
+CR has 9247432 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.008
+Done training for s/b = 0.008
+Train Reweight Done for seed = 5
+cuda available: True
+Working with s/b = 0.008
+CR has 9247432 events.
+Training Generate model...
+Done training for s/b 0.008
+Train Generate Done for seed = 5
+cuda available: True
+Working with s/b = 0.008
+CR has 9247432 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.008
+Train Morph Done for seed 5
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.008
+Generated Samples for s/b = 0.008
+cuda available: True
+Loading model
+Making samples for s/b = 0.008
+Generated Samples for s/b = 0.008
+cuda available: True
+Loading model
+Making samples for s/b = 0.008
+cuda available: True
+Loading Model
+Making samples for s/b = 0.008
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.012
+CR has 9247468 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.012
+Train Context Weights Done for seed = 5
+cuda available: True
+Working with s/b = 0.012
+CR has 9247468 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.012
+Done training for s/b = 0.012
+Train Reweight Done for seed = 5
+cuda available: True
+Working with s/b = 0.012
+CR has 9247468 events.
+Training Generate model...
+Done training for s/b 0.012
+Train Generate Done for seed = 5
+cuda available: True
+Working with s/b = 0.012
+CR has 9247468 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.012
+Train Morph Done for seed 5
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.012
+Generated Samples for s/b = 0.012
+cuda available: True
+Loading model
+Making samples for s/b = 0.012
+Generated Samples for s/b = 0.012
+cuda available: True
+Loading model
+Making samples for s/b = 0.012
+cuda available: True
+Loading Model
+Making samples for s/b = 0.012
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.016
+CR has 9247534 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.016
+Train Context Weights Done for seed = 5
+cuda available: True
+Working with s/b = 0.016
+CR has 9247534 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.016
+Done training for s/b = 0.016
+Train Reweight Done for seed = 5
+cuda available: True
+Working with s/b = 0.016
+CR has 9247534 events.
+Training Generate model...
+Done training for s/b 0.016
+Train Generate Done for seed = 5
+cuda available: True
+Working with s/b = 0.016
+CR has 9247534 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.016
+Train Morph Done for seed 5
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.016
+Generated Samples for s/b = 0.016
+cuda available: True
+Loading model
+Making samples for s/b = 0.016
+Generated Samples for s/b = 0.016
+cuda available: True
+Loading model
+Making samples for s/b = 0.016
+cuda available: True
+Loading Model
+Making samples for s/b = 0.016
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.02
+CR has 9247583 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.02
+Train Context Weights Done for seed = 5
+cuda available: True
+Working with s/b = 0.02
+CR has 9247583 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.02
+Done training for s/b = 0.02
+Train Reweight Done for seed = 5
+cuda available: True
+Working with s/b = 0.02
+CR has 9247583 events.
+Training Generate model...
+Done training for s/b 0.02
+Train Generate Done for seed = 5
+cuda available: True
+Working with s/b = 0.02
+CR has 9247583 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.02
+Train Morph Done for seed 5
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.02
+Generated Samples for s/b = 0.02
+cuda available: True
+Loading model
+Making samples for s/b = 0.02
+Generated Samples for s/b = 0.02
+cuda available: True
+Loading model
+Making samples for s/b = 0.02
+cuda available: True
+Loading Model
+Making samples for s/b = 0.02
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.024
+CR has 9247621 data events, 9983038 MC events.
+Training weights for context...
+Done training for s/b = 0.024
+Train Context Weights Done for seed = 5
+cuda available: True
+Working with s/b = 0.024
+CR has 9247621 data events, 9983038 MC events.
+Training Reweight model... for s/b = 0.024
+Done training for s/b = 0.024
+Train Reweight Done for seed = 5
+cuda available: True
+Working with s/b = 0.024
+CR has 9247621 events.
+Training Generate model...
+Done training for s/b 0.024
+Train Generate Done for seed = 5
+cuda available: True
+Working with s/b = 0.024
+CR has 9247621 data events, 9983038 MC events.
+Training Morph model (base)...
+Done training base!
+Training Morph model (top)...
+Done training top!
+Done training for s/b = 0.024
+Train Morph Done for seed 5
+Generate Samples
+cuda available: True
+Loading model
+Making samples for s/b = 0.024
+Generated Samples for s/b = 0.024
+cuda available: True
+Loading model
+Making samples for s/b = 0.024
+Generated Samples for s/b = 0.024
+cuda available: True
+Loading model
+Making samples for s/b = 0.024
+cuda available: True
+Loading Model
+Making samples for s/b = 0.024
+Done Generating Samples
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Creating signal injection for Seed 6
+Run Program for all signal injections
+Training Model
+cuda available: True
+Working with s/b = 0
+cuda available: True
+Working with s/b = 0
+cuda available: True
+Working with s/b = 0
+cuda available: True
+Working with s/b = 0
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.004
+cuda available: True
+Working with s/b = 0.004
+cuda available: True
+Working with s/b = 0.004
+cuda available: True
+Working with s/b = 0.004
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.008
+cuda available: True
+Working with s/b = 0.008
+cuda available: True
+Working with s/b = 0.008
+cuda available: True
+Working with s/b = 0.008
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.012
+cuda available: True
+Working with s/b = 0.012
+cuda available: True
+Working with s/b = 0.012
+cuda available: True
+Working with s/b = 0.012
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.016
+cuda available: True
+Working with s/b = 0.016
+cuda available: True
+Working with s/b = 0.016
+cuda available: True
+Working with s/b = 0.016
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.02
+cuda available: True
+Working with s/b = 0.02
+cuda available: True
+Working with s/b = 0.02
+cuda available: True
+Working with s/b = 0.02
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.024
+cuda available: True
+Working with s/b = 0.024
+cuda available: True
+Working with s/b = 0.024
+cuda available: True
+Working with s/b = 0.024
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Creating signal injection for Seed 7
+Run Program for all signal injections
+Training Model
+cuda available: True
+Working with s/b = 0
+cuda available: True
+Working with s/b = 0
+cuda available: True
+Working with s/b = 0
+cuda available: True
+Working with s/b = 0
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.004
+cuda available: True
+Working with s/b = 0.004
+cuda available: True
+Working with s/b = 0.004
+cuda available: True
+Working with s/b = 0.004
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.008
+cuda available: True
+Working with s/b = 0.008
+cuda available: True
+Working with s/b = 0.008
+cuda available: True
+Working with s/b = 0.008
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.012
+cuda available: True
+Working with s/b = 0.012
+cuda available: True
+Working with s/b = 0.012
+cuda available: True
+Working with s/b = 0.012
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.016
+cuda available: True
+Working with s/b = 0.016
+cuda available: True
+Working with s/b = 0.016
+cuda available: True
+Working with s/b = 0.016
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.02
+cuda available: True
+Working with s/b = 0.02
+cuda available: True
+Working with s/b = 0.02
+cuda available: True
+Working with s/b = 0.02
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.024
+cuda available: True
+Working with s/b = 0.024
+cuda available: True
+Working with s/b = 0.024
+cuda available: True
+Working with s/b = 0.024
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Creating signal injection for Seed 8
+Run Program for all signal injections
+Training Model
+cuda available: True
+Working with s/b = 0
+cuda available: True
+Working with s/b = 0
+cuda available: True
+Working with s/b = 0
+cuda available: True
+Working with s/b = 0
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.004
+cuda available: True
+Working with s/b = 0.004
+cuda available: True
+Working with s/b = 0.004
+cuda available: True
+Working with s/b = 0.004
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.008
+cuda available: True
+Working with s/b = 0.008
+cuda available: True
+Working with s/b = 0.008
+cuda available: True
+Working with s/b = 0.008
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.012
+cuda available: True
+Working with s/b = 0.012
+cuda available: True
+Working with s/b = 0.012
+cuda available: True
+Working with s/b = 0.012
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.016
+cuda available: True
+Working with s/b = 0.016
+cuda available: True
+Working with s/b = 0.016
+cuda available: True
+Working with s/b = 0.016
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.02
+cuda available: True
+Working with s/b = 0.02
+cuda available: True
+Working with s/b = 0.02
+cuda available: True
+Working with s/b = 0.02
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.024
+cuda available: True
+Working with s/b = 0.024
+cuda available: True
+Working with s/b = 0.024
+cuda available: True
+Working with s/b = 0.024
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Creating signal injection for Seed 9
+Run Program for all signal injections
+Training Model
+cuda available: True
+Working with s/b = 0
+cuda available: True
+Working with s/b = 0
+cuda available: True
+Working with s/b = 0
+cuda available: True
+Working with s/b = 0
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.004
+cuda available: True
+Working with s/b = 0.004
+cuda available: True
+Working with s/b = 0.004
+cuda available: True
+Working with s/b = 0.004
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.008
+cuda available: True
+Working with s/b = 0.008
+cuda available: True
+Working with s/b = 0.008
+cuda available: True
+Working with s/b = 0.008
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.012
+cuda available: True
+Working with s/b = 0.012
+cuda available: True
+Working with s/b = 0.012
+cuda available: True
+Working with s/b = 0.012
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.016
+cuda available: True
+Working with s/b = 0.016
+cuda available: True
+Working with s/b = 0.016
+cuda available: True
+Working with s/b = 0.016
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.02
+cuda available: True
+Working with s/b = 0.02
+cuda available: True
+Working with s/b = 0.02
+cuda available: True
+Working with s/b = 0.02
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.024
+cuda available: True
+Working with s/b = 0.024
+cuda available: True
+Working with s/b = 0.024
+cuda available: True
+Working with s/b = 0.024
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Creating signal injection for Seed 10
+Run Program for all signal injections
+Training Model
+cuda available: True
+Working with s/b = 0
+cuda available: True
+Working with s/b = 0
+cuda available: True
+Working with s/b = 0
+cuda available: True
+Working with s/b = 0
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.004
+cuda available: True
+Working with s/b = 0.004
+cuda available: True
+Working with s/b = 0.004
+cuda available: True
+Working with s/b = 0.004
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.008
+cuda available: True
+Working with s/b = 0.008
+cuda available: True
+Working with s/b = 0.008
+cuda available: True
+Working with s/b = 0.008
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.012
+cuda available: True
+Working with s/b = 0.012
+cuda available: True
+Working with s/b = 0.012
+cuda available: True
+Working with s/b = 0.012
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.016
+cuda available: True
+Working with s/b = 0.016
+cuda available: True
+Working with s/b = 0.016
+cuda available: True
+Working with s/b = 0.016
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.02
+cuda available: True
+Working with s/b = 0.02
+cuda available: True
+Working with s/b = 0.02
+cuda available: True
+Working with s/b = 0.02
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Training Model
+cuda available: True
+Working with s/b = 0.024
+cuda available: True
+Working with s/b = 0.024
+cuda available: True
+Working with s/b = 0.024
+cuda available: True
+Working with s/b = 0.024
+Generate Samples
+cuda available: True
+cuda available: True
+cuda available: True
+cuda available: True
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!

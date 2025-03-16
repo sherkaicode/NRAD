@@ -1,0 +1,253 @@
+Activate Environment
+Virtual environment 'mlenv' is activated. Continuing...
+Running 10 Seeds
+Run Program for all signal injections
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Run Program for all signal injections
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Run Program for all signal injections
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Run Program for all signal injections
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Run Program for all signal injections
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Run Program for all signal injections
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Run Program for all signal injections
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Run Program for all signal injections
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Run Program for all signal injections
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
+Run Program for all signal injections
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for SR
+cuda available: True
+All done!
+Train CWoLa for CR (How well the background is created if signal = 0)
+cuda available: True
+All done!
