@@ -6,13 +6,13 @@ from helpers.process_data import *
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-s", "--sigsample",help="Input signal .txt file",
-    default="/home/aegis/Artemis/NRAD/working_dir/samples/sig_samples/SVJL.root.txt"
+    default="/home/aegis/Titan0/NRAD/SVJL.root.txt"
 )
 parser.add_argument("-b1","--bkg-dir",help="Input bkground folder",
     default="/home/aegis/Artemis/NRAD/working_dir/samples/qcd_data_samples/"
 )
 parser.add_argument("-size",type=int,help="Number of bkg text files",default=20)
-parser.add_argument("-o","--outdir",help="output directory", default ="/home/aegis/Titan0/NRAD/SPP_NRAD")
+parser.add_argument("-o","--outdir",help="output directory", default ="/home/aegis/Titan0/NRAD/NonResRun")
 parser.add_argument("-g","--gen_seed",help="Random seed for signal injections",default=1)
 
 args = parser.parse_args()
@@ -56,7 +56,7 @@ def main():
     
     # concatenate all background events
     bkg_events = np.concatenate(bkg_events_list)
-
+    print(bkg_events.shape)
     # SR masks
     bkg_mask_SR = phys_SR_mask(bkg_events)
     bkg_mask_CR = ~bkg_mask_SR
@@ -66,13 +66,16 @@ def main():
     os.makedirs(seeded_data_dir, exist_ok=True)
     np.random.seed(int(args.gen_seed))
     
-    sig_percent_list = [0, 0.004, 0.008, 0.012, 0.016, 0.02, 0.024]
+    # sig_percent_list = [0, 0.004, 0.008, 0.012, 0.016, 0.02, 0.024]
+    # sig_percent_list = [0, 0.0002, 0.0004, 0.0008, 0.0012, 0.0010, 0.0012]
     
     # Create signal injection dataset
+    # n_bkg_SR = bkg_events[bkg_mask_SR].shape[0]
     n_bkg_SR = bkg_events[bkg_mask_SR].shape[0]
+    n_bkg_BG = bkg_events.shape[0]
     
     for s in sig_percent_list:
-        n_sig = int(s*n_bkg_SR) #Number of signal depends on the background events in SR mask
+        n_sig = int(s*n_bkg_BG) #Number of signal depends on the background events in SR mask
         selected_sig_indices = np.random.choice(sig_events.shape[0], size = n_sig, replace = False)
         selected_sig = sig_events[selected_sig_indices, :]
         data_events = np.concatenate([selected_sig, bkg_events])
